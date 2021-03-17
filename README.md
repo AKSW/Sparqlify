@@ -34,7 +34,7 @@ Sparqlify Debian packages can be obtained by following means:
 
 After setting up any of the repositories below, you can install sparqlify with apt using
 
-* apt: `sudo apt-get install sparqlify-cli
+* apt: `sudo apt-get install sparqlify-cli`
 
 #### Linked Data Stack (this is what you want)
 
