@@ -99,7 +99,7 @@
 		<!-- prior: 3.1.2.RELEASE -->
 		<spring.version>5.3.2</spring.version>
 		<spring.batch.version>4.3.1</spring.batch.version>
-		<spring.security.version>5.4.2</spring.security.version>
+		<spring.security.version>5.4.4</spring.security.version>
 
 		<aksw.commons.version>0.8.14</aksw.commons.version>
 
